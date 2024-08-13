@@ -22,7 +22,7 @@
        android:layout_height="90dp"
        android:src="@drawable/facebooklogo"
        app:civ_border_width="2dp"
-       android:layout_margin="270dp"
+       android:layout_margin="250dp"
        app:civ_border_color="#2E2E2E"/>
 
    <TextView
